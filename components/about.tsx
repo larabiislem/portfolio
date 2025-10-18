@@ -66,7 +66,7 @@ export default function About() {
               </div>
             </div>
 
-            <p className="text-lg text-slate-300 font-semibold">Let's build something meaningful together! 🤝</p>
+          
 
             {/* Social Links */}
             <div className="flex gap-4 pt-4">
