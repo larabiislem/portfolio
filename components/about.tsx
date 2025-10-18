@@ -52,13 +52,13 @@ export default function About() {
 
             <div className="space-y-4">
               <div className="flex gap-3">
-                <span className="text-2xl">🚀</span>
+                
                 <p className="text-slate-300">
                   I enjoy building real-world applications that solve real problems and make a tangible impact.
                 </p>
               </div>
               <div className="flex gap-3">
-                <span className="text-2xl">🎯</span>
+                
                 <p className="text-slate-300">
                   Full-stack web & mobile developer, always looking to learn, grow, and contribute to open source or
                   collaborative projects.
